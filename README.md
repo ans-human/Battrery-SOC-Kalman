@@ -9,7 +9,7 @@ python3 implementation of an extended Kalman filter for state of charge (SoC) es
 
 To run it just launch:
 ```sh
-$> python3 Python/main.py
+$> python Python/main.py
 ```
 Or use any python IDE (spyder/ jupyter notebook) and run the main.py file.
 
